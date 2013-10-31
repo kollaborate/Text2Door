@@ -1,0 +1,7 @@
+#KEY "TODO"
+#USER "mshin0837@gmail.com"
+#PASS "power1234567890"
+#ENTRY_PASS "sv"
+#UNLOCK_CODE "open"
+#LOCK_CODE "close"
+#UNLOCK_TIME "5"
